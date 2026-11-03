@@ -1,0 +1,16 @@
+# Dados reais: nunca versionar
+/*.xlsx
+/*.xls
+/*.csv
+/*.pdf
+/*.json
+historico_conciliacao_*.json
+dados/
+relatorios/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
