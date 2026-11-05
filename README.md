@@ -64,4 +64,3 @@ Relatórios financeiros e arquivos de histórico (`.json`) contêm dados reais d
 
 ## Licença
 
-Uso interno. Defina a licença aqui caso o projeto seja aberto.
